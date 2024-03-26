@@ -38,7 +38,7 @@ namespace Course
         private Vector3 UpdatePos(float t /* = 現在時刻*/)
         {
             Vector3 pos = Vector3.zero;
-            /* pos  = ???; （ここに解析解による位置更新を実装）*/
+            pos  = 
             return pos;
         }
         
